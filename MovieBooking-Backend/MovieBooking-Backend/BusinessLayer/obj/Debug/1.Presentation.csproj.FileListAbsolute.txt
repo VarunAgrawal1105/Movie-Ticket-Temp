@@ -1,0 +1,6 @@
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\BusinessLayer\obj\Debug\1.Presentation.csprojAssemblyReference.cache
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\BusinessLayer\obj\Debug\1.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\BusinessLayer\obj\Debug\BusinessLayer.pdb

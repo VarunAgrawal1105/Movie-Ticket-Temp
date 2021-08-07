@@ -1,0 +1,12 @@
+D:\MovieBooking-Backend\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\MovieBooking-Backend\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\MovieBooking-Backend\DataAccessLayer\obj\Debug\2.Business Domain.csproj.CoreCompileInputs.cache
+D:\MovieBooking-Backend\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MovieBooking-Backend\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MovieBooking-Backend\DataAccessLayer\obj\Debug\2.Business Domain.csprojAssemblyReference.cache
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\DataAccessLayer\obj\Debug\2.Business Domain.csprojAssemblyReference.cache
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\DataAccessLayer\obj\Debug\2.Business Domain.csproj.CoreCompileInputs.cache
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\varunagrawal\source\repos\MovieBooking-Backend\MovieBooking-Backend\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
